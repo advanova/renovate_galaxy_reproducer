@@ -35,7 +35,12 @@ tags: [application]
 # collection label 'namespace.name'. The value is a version range
 # L(specifiers,https://python-semanticversion.readthedocs.io/en/latest/#requirement-specification). Multiple version
 # range specifiers can be set and are separated by ','
-dependencies: { ansible.utils: 2.10.3, community.general: 7.0.1, community.mysql: 3.7.1, advanova.base: ">=0.0.0" }
+dependencies:
+  ansible.utils: 2.10.3
+  community.general: 7.0.1
+  community.mysql: 3.9.0
+  advanova.base: ">=0.0.0"
+
 # The URL of the originating SCM repository
 repository: http://example.com/repository
 
