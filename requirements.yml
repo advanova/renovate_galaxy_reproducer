@@ -3,7 +3,7 @@ collections:
   - name: ansible.utils
     version: 2.10.3
   - name: community.general
-    version: 7.0.1
+    version: 8.5.0
   - name: community.mysql
     version: 3.7.1
   - name: advanova.base

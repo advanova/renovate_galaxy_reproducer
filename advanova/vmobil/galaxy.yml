@@ -37,7 +37,7 @@ tags: [application]
 # range specifiers can be set and are separated by ','
 dependencies:
   ansible.utils: 2.10.3
-  community.general: 7.0.1
+  community.general: 8.5.0
   community.mysql: 3.9.0
   advanova.base: ">=0.0.0"
 
