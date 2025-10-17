@@ -38,7 +38,7 @@ tags: [application]
 dependencies:
   ansible.utils: 2.10.3
   community.general: 7.0.1
-  community.mysql: 3.9.0
+  community.mysql: 3.16.1
   advanova.base: ">=0.0.0"
 
 # The URL of the originating SCM repository
